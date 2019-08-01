@@ -7,6 +7,8 @@ test using Azure Devops pipelines with Powershell and Pester
 
 ## Related Articles
 
+<https://psake.readthedocs.io/en/latest/what-can-i-use-psake-for/>
+
 <https://www.tygertec.com/lessons-in-a-psake-build-script/>
 
 <https://www.powershellmagazine.com/2018/09/20/converting-a-powershell-project-to-use-azure-devops-pipelines/>
