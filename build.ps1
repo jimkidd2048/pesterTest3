@@ -1,1 +1,1 @@
-invoke-pester -OutputFormat  NUnitXml -OutputFile .\ -Quiet
+invoke-pester -OutputFormat  NUnitXml -OutputFile .\TestResults.xml -Quiet
