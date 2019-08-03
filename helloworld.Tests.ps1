@@ -12,4 +12,7 @@ Describe "helloworld" {
     It "output Hello World" {
         helloworld | Should -BeExactly "Hello World"
     }
+    It "`$Env:ComputerName is not `$Null" {
+        $Env:ComputerName | Should -Not -BeNullOrEmpty
+    }
 }
